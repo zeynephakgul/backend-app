@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CaseStudies\\Architect\\api\\backend-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|d:\\casestudies\\architect\\api\\backend-app\\backend-app\\controllers\\casestudycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|solutionrelative:backend-app\\controllers\\casestudycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|d:\\casestudies\\architect\\api\\backend-app\\backend-app\\newfolder\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|solutionrelative:backend-app\\newfolder\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|d:\\casestudies\\architect\\api\\backend-app\\backend-app\\newfolder\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|solutionrelative:backend-app\\newfolder\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|d:\\casestudies\\architect\\api\\backend-app\\backend-app\\newfolder\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|solutionrelative:backend-app\\newfolder\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|d:\\casestudies\\architect\\api\\backend-app\\backend-app\\newfolder\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90838BAC-9720-4F61-BAED-098786BF7CF7}|backend-app\\backend-app.csproj|solutionrelative:backend-app\\newfolder\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\Transfer.cs",
+              "RelativeDocumentMoniker": "backend-app\\NewFolder\\Transfer.cs",
+              "ToolTip": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\Transfer.cs",
+              "RelativeToolTip": "backend-app\\NewFolder\\Transfer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:49:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\Transaction.cs",
+              "RelativeDocumentMoniker": "backend-app\\NewFolder\\Transaction.cs",
+              "ToolTip": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\Transaction.cs",
+              "RelativeToolTip": "backend-app\\NewFolder\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:25:37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\User.cs",
+              "RelativeDocumentMoniker": "backend-app\\NewFolder\\User.cs",
+              "ToolTip": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\User.cs",
+              "RelativeToolTip": "backend-app\\NewFolder\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:21:15.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\UserLogin.cs",
+              "RelativeDocumentMoniker": "backend-app\\NewFolder\\UserLogin.cs",
+              "ToolTip": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\NewFolder\\UserLogin.cs",
+              "RelativeToolTip": "backend-app\\NewFolder\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:42:29.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaseStudyController.cs",
+              "DocumentMoniker": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\Controllers\\CaseStudyController.cs",
+              "RelativeDocumentMoniker": "backend-app\\Controllers\\CaseStudyController.cs",
+              "ToolTip": "D:\\CaseStudies\\Architect\\api\\backend-app\\backend-app\\Controllers\\CaseStudyController.cs",
+              "RelativeToolTip": "backend-app\\Controllers\\CaseStudyController.cs",
+              "ViewState": "AQIAAJoBAAAAAAAAAAAmwIcBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:14:31.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
